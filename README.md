@@ -43,4 +43,4 @@ Permite al usuario:
 ## 👤 Autor
 
 Sebastián Scorini Wizenberg  
-[GitHub](https://github.com/cepita7) – [LinkedIn](https://www.linkedin.com/in/sebastian-scorini-wizenberg/)
+[GitHub](https://github.com/SebaScorini) – [LinkedIn](https://www.linkedin.com/in/sebastian-scorini-wizenberg/)
